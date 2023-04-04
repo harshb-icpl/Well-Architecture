@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T11:28:28.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LbUQC2oFS-EmGU73MkNi" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T11:30:57.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="fYhlDKlyKaY8SyFIGCGv" version="21.1.4" type="github">
   <diagram name="Page-1" id="tNFhh0o9X5lRHm_rHBKG">
     <mxGraphModel dx="1900" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,6 +78,27 @@
         </mxCell>
         <mxCell id="dUiwEd2J8DCF9xi4yPge-20" value="Fetch role-permission details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414.38" y="130" width="241.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUiwEd2J8DCF9xi4yPge-21" value="Service Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="490" width="241.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUiwEd2J8DCF9xi4yPge-22" value="Route to service if authorized" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="490" width="241.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUiwEd2J8DCF9xi4yPge-24" value="&lt;b&gt;Web / Mobile&lt;br&gt;Apps&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="68.63" y="566.5" width="102.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUiwEd2J8DCF9xi4yPge-25" value="&lt;b&gt;API Gateway&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335.88" y="566.5" width="102.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUiwEd2J8DCF9xi4yPge-26" value="&lt;b&gt;Service&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610.13" y="563.5" width="102.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUiwEd2J8DCF9xi4yPge-27" value="&lt;b&gt;CloudWatch logs&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="483.63" y="380" width="102.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUiwEd2J8DCF9xi4yPge-28" value="&lt;b&gt;Role Table&lt;br&gt;Permission Table&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="653.63" y="210" width="102.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
